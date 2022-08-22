@@ -1,0 +1,43 @@
+import { StyleSheet } from "react-native";
+
+export default StyleSheet.create({
+    container:{
+        flex:1,
+        justifyContent:'center',
+        alignItems:'center'
+    },
+    bgImage:{
+        flex:1,
+        position:'absolute',
+        width:'100%',
+        height:'100%',
+        justifyContent:'center'
+    },
+    profileImg:{
+        width:120,
+        height:120,
+        borderRadius:25,
+        alignSelf:'center',
+        bottom:'45%'
+    },
+    bottomContainer:{
+        marginTop:'52%',
+        height:'73%',
+        width:'100%',
+        backgroundColor:'#4527a0',
+        borderTopLeftRadius:50,
+        alignItems:'center'
+    },
+    txtName:{
+        color:'white',
+        fontWeight:'bold',
+        fontSize:30,
+        bottom:'8%'
+    },
+    txtBook:{
+        color:'#3e2723',
+        fontWeight:'bold',
+        fontSize:18,
+        bottom:'6%'
+    }
+})

@@ -1,0 +1,45 @@
+import { StyleSheet } from "react-native";
+
+export default StyleSheet.create({
+    container:{
+        margin:20,
+        padding:20,
+        backgroundColor:'#26c6da',
+        borderRadius:20
+    },
+    closeIcon:{
+        alignSelf:'flex-end'
+    },
+    patCardImage:{
+        height:50,
+        width:50,
+        flex:1
+    },
+    startEndTxt:{
+        color:'black',
+        fontSize:14
+    },
+    missionNameTxt:{
+        color:'black',
+        fontWeight:'bold',
+        fontSize:17
+    },
+    patNameTxt:{
+        fontSize:15,
+        color:'black'
+    },
+    cardBottomContainer:{
+        flexDirection:'row'
+    },
+    btnCardCompleted:{
+        padding:15,
+        borderWidth:1,
+        borderRadius:10,
+        backgroundColor:'#003c8f'
+    },
+    btnTxt:{
+        color:'white',
+        fontSize:15,
+        fontWeight:'bold'
+    }
+})

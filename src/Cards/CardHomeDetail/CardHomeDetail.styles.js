@@ -1,0 +1,41 @@
+import { StyleSheet } from "react-native";
+
+export default StyleSheet.create({
+    container:{
+        padding:15,
+        paddingBottom:350,
+        height:'100%',
+        borderWidth:1,
+        borderColor:'black'
+    },
+    workNameTxt:{
+        fontSize:25,
+        fontWeight:'bold',
+        color:'#e1bee7'
+    },
+    workImg:{
+        height:'180%',
+        width:'95%',
+        alignSelf:'center',
+        margin:8,
+        borderRadius:20,
+        borderWidth:1,
+        borderColor:'black'
+    },
+    worksTxt:{
+        color:'#e1bee7',
+        fontSize:25,
+        fontWeight:'bold'
+    },
+    innerWork:{
+        alignSelf:'center',
+        marginTop:10
+    },
+    workTxt:{
+        color:'#e1bee7',
+        fontSize:18,
+    },
+    cBoxTxt:{
+        flexDirection:'row'
+    },
+})
