@@ -18,3 +18,20 @@ Technologies and structures used;<br>
 ~ Context<br>
 <br>
 <p/><p/>
+
+<img src="https://user-images.githubusercontent.com/77547205/190271617-b8a2eef0-79b2-445f-8964-5d6ff8795383.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190271619-a2c7f835-41bc-4ae6-a07c-ed4675d51761.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190271621-ca165c22-5a50-470f-8abb-98d1dcf80c25.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190271624-1a1f0b60-d967-4c31-b4ed-083404791872.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190271598-a70de194-83a2-4510-be15-60e882b703d1.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190271600-b8f3cd3c-6431-4868-8942-51add31d5623.png" height="550" width="250">
+
+
+<img src="https://user-images.githubusercontent.com/77547205/190271602-d318e581-009c-4849-8aa8-712eba907381.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190271604-01267f04-e289-4af6-acd8-ed78c452d38b.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190271606-aa846e8f-14d7-4233-b040-a3ef5373d77d.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190271610-f32d9de2-0d5d-466a-b79b-6834721779e1.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190271614-efc67e32-8efa-4e31-83fc-e7cb1b95d351.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190271616-7c28e424-960a-4dc4-9564-6cda6d9dd538.png" height="550" width="250">
+
+
