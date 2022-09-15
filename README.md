@@ -16,6 +16,22 @@ Technologies and structures used;<br>
 ~ State and Lifecycle<br>
 ~ Hooks<br>
 ~ Context<br>
+*****************
+MyChallanges uygulaması modern bir Yapılacaklar uygulamasıdır. Patika aracılığıyla aldığım React Native eğitiminde belli bir noktaya kadar olan süreçte öğrendiklerimi pekiştirmek için yaptığım proje, olayların mantığını anlamama büyük katkı sağladı. Uygulamanın açılış ekranında kullanıcının hesabı varsa hesabına giriş yapar. Mevcut bir hesabınız yoksa, kayıt için 'Kayıt Ol' sayfasına yönlendirileceksiniz. Kullanıcı başarıyla oturum açtıktan sonra, iş kategorileri sayfası kullanıcıyı karşılar. Kategorilerle ilgili sayfalarda yapılabilecek işlemleri detaylı incelemek için Github hesabımı inceleyebilirsiniz. İyi Çalışmalar.<br><br>
+1) Hayvanlar kategorisi seçilirse kullanıcı, 'Ekle' butonu ile açılan 'Modal' penceresinden evcil hayvanları için yeni görevler ekleyebilir ve iş tamamlandıktan sonra silebilir. Aynı zamanda silmek istemezse 'Tamamlandı' butonu ile görevi devre dışı bırakabilir.<br>
+2) Kitaplar kategorisi seçilirse kullanıcı, 'Ekle' butonu ile açılan 'Modal' penceresinden yeni okuma görevleri ekleyebilir, görev tamamlandıktan sonra silebilir ve dilerse 'Düzenle' butonuna tıklayarak kalan sayfa sayısını, okuduğu sayfa sayısını girerek güncelleyebilir. Aynı zamanda silmek istemezse 'Okundu' butonu ile görevi devre dışı bırakabilir.<br>
+3) 'Ev' kategorisi seçilirse kullanıcı evin her bölümü için yaptığı işe tik atarak tamamlandı olarak işaretleyebilir. 'Ana Sayfa' sekmesinde; Mutfak, oturma odası, bahçe gibi çeşitli bölümler bulunmaktadır. Kullanıcı 'CheckBox'u işaretlerse, 'Aktif iş' sayfasındaki ev işi sayısı azalır.<br>
+4) Kullanıcı, 'Bitkiler' kategorisine giriş yaparak, 'Sula' butonu ile bitkisini en son ne zaman suladığı ile ilgili bilgileri saklayabilir.<br>
+5) 'Oyun' kategorisinde, günümüzde oldukça popüler olan 'VALORANT' oyunundaki karakterlerin özelliklerini görüntüledim. Kullanıcı istediği kategorideki karakterleri filtreleyerek listeleyebilir.(Duellolist, Sentinel gibi...)<br>
+6) 'Bottom Tab'da, kullanıcı 'Profilim' sayfasına gidebilir ve profil fotoğrafını güncelleyebilir.<br>
+7) Aynı zamanda kullanıcı, 'Bottom Tab'dan 'Aktif İşler' sayfasına erişebilir ve genel bir bakış açısıyla hangi kategoride kaç aktif iş kaldığını kontrol edebilir.
+
+Kullanılan Yapılar;<br>
+~ Modal - DatePicker - ImagePicker<br>
+~ Navigation<br>
+~ State and Lifecycle<br>
+~ Hooks<br>
+~ Context<br>
 <br>
 <p/><p/>
 
